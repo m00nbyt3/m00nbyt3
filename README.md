@@ -63,26 +63,60 @@ I'm a cybersecurity enthusiast and student at **42 Madrid**, focused on understa
 
 ## 🧪 Featured Projects
 
-### 📡 RFID/NFC Security Research
+### 📡 [Nix](https://github.com/m00nbyt3/Nix)
 
-Experiments and security research involving RFID and NFC technologies, including protocol analysis and hardware interaction.
+**Nix** is an RF De Bruijn sequence transmitter designed to work with the
+[Evil Crow RF](https://github.com/joelsernamoreno/EvilCrow-RF) platform created
+by [@joelsernamoreno](https://github.com/joelsernamoreno).
 
-### 🔬 Reverse Engineering
+- 📻 Focused on RF security research
+- ⚙️ Developed in C++
+- 🧪 Intended for authorized testing and controlled environments
 
-Static and dynamic analysis of binaries to understand program behavior, identify vulnerabilities, and study software internals.
-
-### ⚙️ Low-Level Development
-
-Projects involving C, Assembly, memory management, system calls, networking, and operating-system concepts.
-
-### 🛡️ Penetration-Testing Labs
-
-Write-ups, tools, and notes created while practicing in legal and controlled environments.
-
-> Some security projects may remain private or have sensitive details removed.
+`C++` `RF Security` `Hardware Hacking` `De Bruijn Sequences`
 
 ---
 
+### 📱 [42_apkmod_1](https://github.com/m00nbyt3/42_apkmod_1)
+
+Educational material from an introductory event about Android APK internals and
+how applications can be analyzed and modified after compilation.
+
+- 📦 APK unpacking and rebuilding
+- 🔍 Introduction to Android application internals
+- 🧩 Smali code analysis and modification
+
+`Smali` `Android` `APK Modding` `Reverse Engineering`
+
+---
+
+### 🧬 [DLLorean](https://github.com/m00nbyt3/DLLorean)
+
+A tool that automates the creation of **DLL proxying** setups. Specify the
+original DLL and your payload, and DLLorean handles the remaining setup.
+
+- ⚙️ Automated DLL proxy generation
+- 🔬 Focused on Windows internals and security research
+- 💻 Developed in C
+
+`C` `Windows Internals` `DLL Proxying` `Security Research`
+
+---
+
+### 🧱 [krater](https://github.com/m00nbyt3/krater)
+
+An educational binary segmentation and reconstruction tool designed for
+experimenting with executable internals—and potentially running the rebuilt
+result.
+
+- 🔪 Binary segmentation
+- 🧩 Binary reconstruction
+- 🔬 Exploration of executable formats and program internals
+- 🎓 Developed for educational and research purposes
+
+`Binary Analysis` `Reverse Engineering` `Low-Level Programming`
+
+---
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/yago-carro-610957298)
